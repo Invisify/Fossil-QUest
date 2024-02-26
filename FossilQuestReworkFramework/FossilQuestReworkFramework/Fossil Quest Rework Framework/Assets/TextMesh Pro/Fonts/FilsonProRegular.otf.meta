@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 543c776b49e90e04aaa78d64d0a435f0
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Filson Pro
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 927529ccf9e01bb45a3b8084fd0b4044, type: 3}
+  - {fileID: 12800000, guid: c28e1b2b0b02d1d4b942e703218e6a83, type: 3}
+  - {fileID: 12800000, guid: f176fec4bb38a7248837fcd811d31f73, type: 3}
+  - {fileID: 12800000, guid: 53785a22fdbbf3c4b9d1ed8829c61670, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

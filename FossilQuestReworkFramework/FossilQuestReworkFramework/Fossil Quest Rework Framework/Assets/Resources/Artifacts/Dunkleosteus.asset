@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7ddfcd2e3f8c4124891df21f37d5610e, type: 3}
+  m_Name: Dunkleosteus
+  m_EditorClassIdentifier: 
+  name: 
+  description: 
+  artifactHiddenUI: {fileID: 21300000, guid: 6443907d08421d241a8d5c0e6a8186ee, type: 3}
+  artifactDiscoveredUI: {fileID: 21300000, guid: 3d63a1d4eaf258e478ed580d637b678b, type: 3}
+  artifactSprite: {fileID: 0}
+  artifactGameObject: {fileID: 6004300093409707542, guid: 01a7c47dc1cf6474a84efbb0a86bc9ae, type: 3}
+  secondName: Terrelli
+  fish3DModel: {fileID: 5778404721217175910, guid: 621d797d8d0a6b540a259058aca51112, type: 3}
